@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L02P02_2022MR655_2022VZ650/1.0.0": {
+        "runtime": {
+          "L02P02_2022MR655_2022VZ650.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L02P02_2022MR655_2022VZ650/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
